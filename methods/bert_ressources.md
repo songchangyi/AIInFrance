@@ -2,7 +2,9 @@
 
 ## BERT usage
 1.Projet Bert : https://github.com/google-research/bert 
+
 2.Projet bert-as-service : https://github.com/hanxiao/bert-as-service
+
 3.Projet bert-utils : https://github.com/terrifyzhao/bert-utils
 
 ### Customizing BERT
