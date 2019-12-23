@@ -9,3 +9,6 @@
 
 ### Customizing BERT
 https://www.kaggle.com/c/tensorflow2-question-answering/discussion/122680
+
+### 【NLP】Google BERT详解
+https://zhuanlan.zhihu.com/p/46652512
