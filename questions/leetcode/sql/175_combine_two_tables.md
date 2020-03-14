@@ -2,7 +2,7 @@
 
 ## Description
 Table: Person
-
+```
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -10,6 +10,7 @@ Table: Person
 | FirstName   | varchar |
 | LastName    | varchar |
 +-------------+---------+
+```
 PersonId is the primary key column for this table.
 
 Table: Address
