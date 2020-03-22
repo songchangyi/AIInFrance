@@ -21,3 +21,7 @@ https://github.com/Swalloow/pyspark-ml-examples
 ## Advanced
 - Kaggle Store Item Demand
 https://github.com/dimitreOliveira/StoreItemDemand
+
+## Analysis
+- Google Play Store Analysis
+https://github.com/cvilla87/PySpark-Google-Play-Store-analysis
