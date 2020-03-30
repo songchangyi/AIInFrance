@@ -1,4 +1,4 @@
-# Sorting algorithms
+# Searching algorithms
 
 
 ## Reference
