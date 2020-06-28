@@ -11,3 +11,4 @@
 - [Kaggle首战Top 2%, APTOS 2019复盘总结+机器学习竞赛通用流程归纳](https://zhuanlan.zhihu.com/p/81695773)
 - [6次Kaggle计算机视觉类比赛赛后感](https://zhuanlan.zhihu.com/p/37663895)
 - [kaggle的比赛真的靠ensemble吗？](https://zhuanlan.zhihu.com/p/49094829)
+- [干货：图像比赛的通用套路有哪些？Kaggle比赛金牌团队为你解答](https://www.leiphone.com/news/201708/QunuyScU03Gx050Z.html)
