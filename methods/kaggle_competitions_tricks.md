@@ -12,3 +12,5 @@
 - [6次Kaggle计算机视觉类比赛赛后感](https://zhuanlan.zhihu.com/p/37663895)
 - [kaggle的比赛真的靠ensemble吗？](https://zhuanlan.zhihu.com/p/49094829)
 - [干货：图像比赛的通用套路有哪些？Kaggle比赛金牌团队为你解答](https://www.leiphone.com/news/201708/QunuyScU03Gx050Z.html)
+- [竞赛集成方法必备技能](https://www.kesci.com/home/project/59a9307bc8d2787da4ddcf94)
+- [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
