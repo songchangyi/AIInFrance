@@ -14,3 +14,4 @@
 - [干货：图像比赛的通用套路有哪些？Kaggle比赛金牌团队为你解答](https://www.leiphone.com/news/201708/QunuyScU03Gx050Z.html)
 - [竞赛集成方法必备技能](https://www.kesci.com/home/project/59a9307bc8d2787da4ddcf94)
 - [Introduction to Ensembling/Stacking in Python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+- [深度学习调参有哪些技巧](https://www.zhihu.com/question/25097993)
