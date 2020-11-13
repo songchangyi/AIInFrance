@@ -1,5 +1,9 @@
 # 自然语言处理相关任务
 
+## 背景与展望
+- [NLP综述（思维导图）](https://zhuanlan.zhihu.com/p/56802149)
+- [BERT时代与后时代的NLP](https://zhuanlan.zhihu.com/p/66676144)
+
 ## 对话机器人chatbot
 - [对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
 
