@@ -5,7 +5,8 @@
 - [BERT时代与后时代的NLP](https://zhuanlan.zhihu.com/p/66676144)
 
 ## 对话机器人chatbot
-- [对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
+- [智能客服机器人分类图](https://blog.csdn.net/u011646912/article/details/102816281)
+- [知乎专栏：对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
 
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
