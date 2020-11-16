@@ -12,7 +12,7 @@
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
 
-## 命名实体识别NER
+## 命名实体识别 NER
 
 【实战链接】
 
@@ -42,3 +42,7 @@ Kashgari - 一个工业级NLP迁移学习框架：
 - 结论：TextSpace > StanfordNLP > spaCy > IBM MAX = Dialogflow
 - [Benchmarking Named Entity Recognition: StanfordNLP, IBM, spaCy, Dialogflow, and TextSpace](https://towardsdatascience.com/benchmarking-named-entity-recognition-stanfordnlp-ibm-spacy-dialogflow-and-textspace-af6615eb7930)
 
+## 文本分类 Text Classification
+
+【调参技巧】
+- [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
