@@ -42,6 +42,17 @@ Kashgari - 一个工业级NLP迁移学习框架：
 - 结论：TextSpace > StanfordNLP > spaCy > IBM MAX = Dialogflow
 - [Benchmarking Named Entity Recognition: StanfordNLP, IBM, spaCy, Dialogflow, and TextSpace](https://towardsdatascience.com/benchmarking-named-entity-recognition-stanfordnlp-ibm-spacy-dialogflow-and-textspace-af6615eb7930)
 
+## 分词 Tokenization
+
+【中文】
+
+中文NLP分词：
+- 结论：分为基于词典和基于统计的算法。常见的分词器都是使用两者的结合。
+- 存在问题：分词标准不一，歧义（组合型，交集型，真歧义），新词
+- [中文分词利器 jieba 和 HanLP](https://www.jianshu.com/p/009671e56027)
+- [中文分词原理和工具总结](https://blog.csdn.net/sinat_26811377/article/details/102802044)
+- [中文分词器分词效果评估对比](https://github.com/ysc/cws_evaluation)
+
 ## 文本分类 Text Classification
 
 【调参技巧】
