@@ -53,7 +53,11 @@ Kashgari - 一个工业级NLP迁移学习框架：
 - [中文分词原理和工具总结](https://blog.csdn.net/sinat_26811377/article/details/102802044)
 - [中文分词器分词效果评估对比](https://github.com/ysc/cws_evaluation)
 
-## 文本分类 Text Classification
+## 模型
 
-【调参技巧】
+【Word2Vec】
+- [Word2Vec的参数解释](https://blog.csdn.net/laobai1015/article/details/86540813)
+- [Word2Vec的簡易教學與參數調整指南](https://www.kaggle.com/jerrykuo7727/word2vec)
+
+【TextCNN】
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
