@@ -61,3 +61,11 @@ Kashgari - 一个工业级NLP迁移学习框架：
 
 【TextCNN】
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
+
+## 文本聚类 Clustering
+
+LDA主题模型：
+- [利用sklearn训练LDA主题模型及调参详解](https://blog.csdn.net/TiffanyRabbit/article/details/76445909)
+
+聚类小结：
+- [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
