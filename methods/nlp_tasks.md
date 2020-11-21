@@ -7,6 +7,7 @@
 ## 对话机器人chatbot
 - [智能客服机器人分类图](https://blog.csdn.net/u011646912/article/details/102816281)
 - [知乎专栏：对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
+- [五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q)
 
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
@@ -63,6 +64,12 @@ LDA主题模型：
 
 聚类小结：
 - [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
+
+## 知识图谱
+- [知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247485923&idx=1&sn=27735f64a2196ba7210503da84c90c33&chksm=fbd4bb8fcca3329939fbec3673773f005839b68cc41471075917b6063fb80ac045b01678164f&scene=21#wechat_redirect)
+
+## 搜索引擎
+- [神马搜索技术演进之路](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247485830&idx=1&sn=621393b30e179660de9b35d57da60752&chksm=fbd4bbeacca332fcfe9733a126f07386ad66c3a0381b5e0c2daa81c70d88d0d19048fad645c1&scene=21#wechat_redirect)
 
 ## 模型
 
