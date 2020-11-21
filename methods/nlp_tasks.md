@@ -53,14 +53,8 @@ Kashgari - 一个工业级NLP迁移学习框架：
 - [中文分词原理和工具总结](https://blog.csdn.net/sinat_26811377/article/details/102802044)
 - [中文分词器分词效果评估对比](https://github.com/ysc/cws_evaluation)
 
-## 模型
-
-【Word2Vec】
-- [Word2Vec的参数解释](https://blog.csdn.net/laobai1015/article/details/86540813)
-- [Word2Vec的簡易教學與參數調整指南](https://www.kaggle.com/jerrykuo7727/word2vec)
-
-【TextCNN】
-- [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
+## 特征抽取
+- [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
 
 ## 文本聚类 Clustering
 
@@ -69,3 +63,12 @@ LDA主题模型：
 
 聚类小结：
 - [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
+
+## 模型
+
+【Word2Vec】
+- [Word2Vec的参数解释](https://blog.csdn.net/laobai1015/article/details/86540813)
+- [Word2Vec的簡易教學與參數調整指南](https://www.kaggle.com/jerrykuo7727/word2vec)
+
+【TextCNN】
+- [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
