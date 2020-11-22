@@ -11,9 +11,18 @@
 
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
+- [Rasa教程系列](https://blog.csdn.net/ljp1919/category_9656007.html)
+
+Rasa NLU Pipeline：
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
-- [Rasa EmbeddingIntentClassifier](https://legacy-docs-v1.rasa.com/nlu/components/#embeddingintentclassifier)
+- [EmbeddingIntentClassifier官方文档](https://legacy-docs-v1.rasa.com/nlu/components/#embeddingintentclassifier)
+- [Understanding Rasa Tensorflow intent classifier](https://medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6)
 - [StarSpace: Embed All The Things!](https://blog.csdn.net/Forlogen/article/details/91345913)
+- [论文阅读——StarSpace:Embed All The Things!](https://www.jianshu.com/p/35c15221c1c4)
+
+Rasa Core Policies：
+- [Policy官方文档](https://rasa.com/docs/rasa/policies/)
+- [Rasa教程系列-Core-5-Policies](https://blog.csdn.net/ljp1919/article/details/104002385)
 
 ## 命名实体识别 NER
 
