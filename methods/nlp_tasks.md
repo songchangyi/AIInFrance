@@ -12,6 +12,8 @@
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
+- [Rasa EmbeddingIntentClassifier](https://legacy-docs-v1.rasa.com/nlu/components/#embeddingintentclassifier)
+- [StarSpace: Embed All The Things!](https://blog.csdn.net/Forlogen/article/details/91345913)
 
 ## 命名实体识别 NER
 
