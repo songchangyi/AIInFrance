@@ -90,3 +90,6 @@ LDA主题模型：
 
 【TextCNN】
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
+
+【Bert】
+- [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
