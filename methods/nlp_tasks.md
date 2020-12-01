@@ -13,44 +13,48 @@
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Rasa教程系列](https://blog.csdn.net/ljp1919/category_9656007.html)
 
-Rasa NLU Pipeline：
+Rasa NLU Pipeline
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
 - [EmbeddingIntentClassifier官方文档](https://legacy-docs-v1.rasa.com/nlu/components/#embeddingintentclassifier)
 - [Understanding Rasa Tensorflow intent classifier](https://medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6)
 - [StarSpace: Embed All The Things!](https://blog.csdn.net/Forlogen/article/details/91345913)
 - [论文阅读——StarSpace:Embed All The Things!](https://www.jianshu.com/p/35c15221c1c4)
 
-Rasa Core Policies：
+Rasa Core Policies
 - [Policy官方文档](https://rasa.com/docs/rasa/policies/)
 - [Rasa教程系列-Core-5-Policies](https://blog.csdn.net/ljp1919/article/details/104002385)
+
+Rasa Test CI/CD
+- [Test](https://rasa.com/docs/rasa/testing-your-assistant/)
+- [CI/CD](https://rasa.com/docs/rasa/setting-up-ci-cd)
 
 ## 命名实体识别 NER
 
 【实战链接】
 
-Rasa中的NER：
+Rasa中的NER
 - 结论：可以使用ner_spacy实现人名提取
 - [rasa blog - 深入理解rasa NLU: Part2 - 实体识别 (翻译)](https://zhuanlan.zhihu.com/p/84220988)
 - [原文链接](https://blog.rasa.com/rasa-nlu-in-depth-part-2-entity-recognition/)
 
-Spacy官方NER demo：
+Spacy官方NER demo
 - [displaCy Named Entity Visualizer](https://explosion.ai/demos/displacy-ent)
 
-经典建模实现NER：
+经典建模实现NER
 - 结论：CRF，BiLSTM以及BiLSTM+CRF都有不错的表现，超过HMM
 - [NLP实战-中文命名实体识别](https://zhuanlan.zhihu.com/p/61227299)
 
-Bert实现NER：
+Bert实现NER
 - [基于BERT 的中文数据集下的命名实体识别(NER)](https://github.com/xuanzebi/BERT-CH-NER)
 - [BERT-BiLSTM-CRF命名实体识别应用](https://www.omegaxyz.com/2020/05/18/bert-bilstm-crf/)
 - [Bert-NER](https://github.com/binhking/Bert-NER)
 
-Kashgari - 一个工业级NLP迁移学习框架：
+Kashgari - 一个工业级NLP迁移学习框架
 - [Kashgari](https://github.com/BrikerMan/Kashgari/)
 
 【领域背景】
 
-5种框架在NER上的表现对比：
+5种框架在NER上的表现对比
 - 结论：TextSpace > StanfordNLP > spaCy > IBM MAX = Dialogflow
 - [Benchmarking Named Entity Recognition: StanfordNLP, IBM, spaCy, Dialogflow, and TextSpace](https://towardsdatascience.com/benchmarking-named-entity-recognition-stanfordnlp-ibm-spacy-dialogflow-and-textspace-af6615eb7930)
 
@@ -58,7 +62,7 @@ Kashgari - 一个工业级NLP迁移学习框架：
 
 【中文】
 
-中文NLP分词：
+中文NLP分词
 - 结论：分为基于词典和基于统计的算法。常见的分词器都是使用两者的结合。
 - 存在问题：分词标准不一，歧义（组合型，交集型，真歧义），新词
 - [中文分词利器 jieba 和 HanLP](https://www.jianshu.com/p/009671e56027)
