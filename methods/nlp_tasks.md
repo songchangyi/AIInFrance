@@ -74,11 +74,14 @@ Kashgari - 一个工业级NLP迁移学习框架
 
 ## 文本聚类 Clustering
 
-LDA主题模型：
+【LDA主题模型】
 - [利用sklearn训练LDA主题模型及调参详解](https://blog.csdn.net/TiffanyRabbit/article/details/76445909)
 
 聚类小结：
 - [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
+- [聚类算法评估指标](https://zhuanlan.zhihu.com/p/115752696)
+- [聚类算法评估指标](https://www.biaodianfu.com/cluster-score.html)
+- [中文文本聚类实验](https://github.com/FesonX/cn-text-classifier)
 
 ## 知识图谱
 - [知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247485923&idx=1&sn=27735f64a2196ba7210503da84c90c33&chksm=fbd4bb8fcca3329939fbec3673773f005839b68cc41471075917b6063fb80ac045b01678164f&scene=21#wechat_redirect)
