@@ -72,10 +72,20 @@ Kashgari - 一个工业级NLP迁移学习框架
 ## 特征抽取
 - [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
 
-## 文本聚类 Clustering
+## 情感分析
+- [Word2vec情感分析和分类](https://cloud.tencent.com/developer/article/1061949)
+
+## 文本分类聚类
 
 【LDA主题模型】
 - [利用sklearn训练LDA主题模型及调参详解](https://blog.csdn.net/TiffanyRabbit/article/details/76445909)
+
+【大规模文本聚类】
+结论：使用增量聚类算法，比如single-pass。对每条文本，计算与已有类的相似度，高于则加入该类，低于则创建新类。
+- [大数据量的文本聚类](https://www.zhihu.com/question/59920681/answer/760343357)
+
+【大规模文本分类】
+- [深度学习解决大规模文本分类问题](https://cloud.tencent.com/developer/article/1399904)
 
 聚类小结：
 - [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
@@ -99,4 +109,7 @@ Kashgari - 一个工业级NLP迁移学习框架
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
 
 【Bert】
+- [BERT模型原理详解系列](https://zhuanlan.zhihu.com/p/46652512)
+- [BERT是如何分词的](https://cloud.tencent.com/developer/article/1524436)
 - [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
+- [跨语种语言模型](https://zhuanlan.zhihu.com/p/139630839)
