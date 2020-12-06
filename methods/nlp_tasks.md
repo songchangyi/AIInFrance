@@ -13,6 +13,7 @@
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Rasa教程系列](https://blog.csdn.net/ljp1919/category_9656007.html)
+- [Rasa算法官方教程](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 Rasa NLU Pipeline
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
