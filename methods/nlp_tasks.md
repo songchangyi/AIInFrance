@@ -9,6 +9,7 @@
 - [知乎专栏：对话机器人](https://www.zhihu.com/column/c_1154767675480821760)
 - [五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q)
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
+- [搜索query意图识别的演进](https://mp.weixin.qq.com/s/0Hh_iV8tNFd0eEpXSxy9nA)
 
 【Rasa】
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
