@@ -17,6 +17,7 @@
 - [Rasa算法官方教程](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
 
 Rasa NLU Pipeline
+- [Rasa教程系列-NLU-4-组件](https://blog.csdn.net/ljp1919/article/details/103975263)
 - [Finetune BERT Embeddings with spaCy and Rasa](https://github.com/JulianGerhard21/bert_spacy_rasa)
 - [EmbeddingIntentClassifier官方文档](https://legacy-docs-v1.rasa.com/nlu/components/#embeddingintentclassifier)
 - [Understanding Rasa Tensorflow intent classifier](https://medium.com/@tatiana.parshina/understanding-rasa-tensorflow-intent-classifier-e9d4ef019c6)
@@ -73,12 +74,21 @@ Kashgari - 一个工业级NLP迁移学习框架
 - [中文分词器分词效果评估对比](https://github.com/ysc/cws_evaluation)
 
 ## 特征抽取
-- [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
+
+【子词嵌入】
+- [BytePair Encoder算法](https://zhuanlan.zhihu.com/p/38130825)
+
+【通用句编码器】
+- [Universal Sentence Encoder论文分享](https://zhuanlan.zhihu.com/p/35174235)
+- [Universal Sentence Encoder论文详解](https://blog.csdn.net/qq_33624866/article/details/106279666)
 
 ## 情感分析
 - [Word2vec情感分析和分类](https://cloud.tencent.com/developer/article/1061949)
 
 ## 文本分类聚类
+
+【UMAP聚类可视化】
+- [Rasa官方分块标注示例](https://github.com/RasaHQ/rasalit/blob/master/notebooks/bulk-labelling/bulk-labelling.ipynb)
 
 【LDA主题模型】
 - [利用sklearn训练LDA主题模型及调参详解](https://blog.csdn.net/TiffanyRabbit/article/details/76445909)
@@ -117,6 +127,7 @@ Kashgari - 一个工业级NLP迁移学习框架
 
 【Transformer】
 - [Transformer论文翻译](https://so.csdn.net/so/search/s.do?q=Transformer%E8%AE%BA%E6%96%87%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%BA%E6%96%87%E5%AE%8C%E6%95%B4%E7%BF%BB%E8%AF%91&t=&o=&s=&tm=&v=&l=&lv=&u=&ft=)
+- [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
 
 【Bert】
 - [BERT模型原理详解系列](https://zhuanlan.zhihu.com/p/46652512)
