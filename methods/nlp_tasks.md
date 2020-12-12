@@ -115,6 +115,9 @@ Kashgari - 一个工业级NLP迁移学习框架
 【TextCNN】
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
 
+【Transformer】
+- [Transformer论文翻译](https://so.csdn.net/so/search/s.do?q=Transformer%E8%AE%BA%E6%96%87%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%BA%E6%96%87%E5%AE%8C%E6%95%B4%E7%BF%BB%E8%AF%91&t=&o=&s=&tm=&v=&l=&lv=&u=&ft=)
+
 【Bert】
 - [BERT模型原理详解系列](https://zhuanlan.zhihu.com/p/46652512)
 - [BERT是如何分词的](https://cloud.tencent.com/developer/article/1524436)
