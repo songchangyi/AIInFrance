@@ -99,6 +99,8 @@ Kashgari - 一个工业级NLP迁移学习框架
 
 【大规模文本分类】
 - [深度学习解决大规模文本分类问题](https://cloud.tencent.com/developer/article/1399904)
+- [文本分类效果对比](https://github.com/brightmart/text_classification)
+- [短文本分类，腾讯AI Lab联合港中文提出主题记忆网络](https://www.jiqizhixin.com/articles/2018-10-23-6)
 
 聚类小结：
 - [聚类之层次聚类、基于划分的聚类（k-means）、基于密度的聚类、基于模型的聚类](https://blog.csdn.net/qq_16365849/article/details/50646679)
@@ -128,9 +130,11 @@ Kashgari - 一个工业级NLP迁移学习框架
 【Transformer】
 - [Transformer论文翻译](https://so.csdn.net/so/search/s.do?q=Transformer%E8%AE%BA%E6%96%87%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%BA%E6%96%87%E5%AE%8C%E6%95%B4%E7%BF%BB%E8%AF%91&t=&o=&s=&tm=&v=&l=&lv=&u=&ft=)
 - [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
+- [Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
 
 【Bert】
 - [BERT模型原理详解系列](https://zhuanlan.zhihu.com/p/46652512)
 - [BERT是如何分词的](https://cloud.tencent.com/developer/article/1524436)
+- [BERT encoder参数量计算](https://lsc417.com/2020/06/19/bert_parameter/)
 - [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
 - [跨语种语言模型](https://zhuanlan.zhihu.com/p/139630839)
