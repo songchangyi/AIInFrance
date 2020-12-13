@@ -1,5 +1,10 @@
 # Machine Learning on Tabular Data
 
+## Feature Engineering
+
+【Normalization】
+- [详解深度学习中的Normalization](https://zhuanlan.zhihu.com/p/33173246)
+
 ## Modeling
 
 【Tabnet】
