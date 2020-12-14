@@ -15,6 +15,7 @@
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Rasa教程系列](https://blog.csdn.net/ljp1919/category_9656007.html)
 - [Rasa算法官方教程](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+- 从源码看，rasa中的transformer只使用了encoder
 
 Rasa NLU Pipeline
 - [Rasa教程系列-NLU-4-组件](https://blog.csdn.net/ljp1919/article/details/103975263)
@@ -131,10 +132,19 @@ Kashgari - 一个工业级NLP迁移学习框架
 - [Transformer论文翻译](https://so.csdn.net/so/search/s.do?q=Transformer%E8%AE%BA%E6%96%87%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%BA%E6%96%87%E5%AE%8C%E6%95%B4%E7%BF%BB%E8%AF%91&t=&o=&s=&tm=&v=&l=&lv=&u=&ft=)
 - [放弃幻想，全面拥抱Transformer](https://zhuanlan.zhihu.com/p/54743941)
 - [Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
+- [NLP中 batch normalization与 layer normalization](https://zhuanlan.zhihu.com/p/74516930)
+- [关于batch normalization和layer normalization的理解](https://blog.csdn.net/HUSTHY/article/details/106665809)
+- Transformer使用Adam优化器
 
 【Bert】
 - [BERT模型原理详解系列](https://zhuanlan.zhihu.com/p/46652512)
+- [超细节的BERT/Transformer知识点](https://zhuanlan.zhihu.com/p/132554155)
 - [BERT是如何分词的](https://cloud.tencent.com/developer/article/1524436)
 - [BERT encoder参数量计算](https://lsc417.com/2020/06/19/bert_parameter/)
 - [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
 - [跨语种语言模型](https://zhuanlan.zhihu.com/p/139630839)
+- Bert的前馈层使用Gelu激活函数
+为什么不需要decoder：作为一个预训练的模型，我们只需要学习到句子对应的向量，然后给下游任务使用
+- [详解谷歌最强NLP模型BERT](https://www.mdeditor.tw/pl/2ihW)
+在具体的NLP任务上，BERT模型的输入输出会有细微的差别
+- [图示详解BERT模型的输入与输出](https://www.cnblogs.com/gczr/p/11785930.html)
