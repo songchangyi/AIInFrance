@@ -65,5 +65,7 @@ ReLu, Batchnorm,残差结构
 
 # Bert Embedding使用
 TF中如何取第三层embedding：取出第三层outpout，hidden_states = outputs[4]
-
+- [How to get all layers(12) hidden states of BERT](https://github.com/huggingface/transformers/issues/1827)
 用Bert提取词向量是什么原理：使用某一层或者某几层的第一个位置的向量
+- [bert生成句向量](https://cloud.tencent.com/developer/article/1461418)
+- [使用BERT生成句向量](https://blog.csdn.net/u012526436/article/details/87697242)
