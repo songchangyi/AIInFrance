@@ -147,8 +147,11 @@ Kashgari - 一个工业级NLP迁移学习框架
 - [BERT encoder参数量计算](https://lsc417.com/2020/06/19/bert_parameter/)
 - [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
 - [跨语种语言模型](https://zhuanlan.zhihu.com/p/139630839)
-- Bert的前馈层使用Gelu激活函数
+Bert的位置编码可以有PE，正弦余弦编码。还可以使用层次分解位置编码来处理超长文本
+- [层次分解位置编码，让BERT可以处理超长文本](https://mp.weixin.qq.com/s/bSOHfuwKZRY7WkqfXVkAPA)
 为什么不需要decoder：作为一个预训练的模型，我们只需要学习到句子对应的向量，然后给下游任务使用
 - [详解谷歌最强NLP模型BERT](https://www.mdeditor.tw/pl/2ihW)
 在具体的NLP任务上，BERT模型的输入输出会有细微的差别
 - [图示详解BERT模型的输入与输出](https://www.cnblogs.com/gczr/p/11785930.html)
+
+- Bert的前馈层使用Gelu激活函数
