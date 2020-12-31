@@ -59,6 +59,9 @@ Bert实现NER
 Kashgari - 一个工业级NLP迁移学习框架
 - [Kashgari](https://github.com/BrikerMan/Kashgari/)
 
+CRF详解
+- [如何用简单易懂的例子解释条件随机场](https://www.zhihu.com/question/35866596)
+
 【领域背景】
 
 5种框架在NER上的表现对比
