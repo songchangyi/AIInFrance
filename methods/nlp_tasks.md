@@ -28,6 +28,7 @@ Rasa NLU Pipeline
 - [StarSpace: Embed All The Things!](https://blog.csdn.net/Forlogen/article/details/91345913)
 - [论文阅读——StarSpace:Embed All The Things!](https://www.jianshu.com/p/35c15221c1c4)
 - [Triplet Network and Mining and Loss](https://allenlu2007.wordpress.com/2019/06/08/triplet-network-and-loss-and-tensorflow-face-recognition-%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5/)
+- [How to Use BERT in Rasa NLU](https://blog.rasa.com/how-to-benchmark-bert/)
 
 Rasa Core Policies
 - [Policy官方文档](https://rasa.com/docs/rasa/policies/)
