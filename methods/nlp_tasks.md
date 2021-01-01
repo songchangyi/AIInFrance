@@ -16,6 +16,8 @@
 - [rasa文章导引（用于收藏）](https://zhuanlan.zhihu.com/p/88112269)
 - [Rasa教程系列](https://blog.csdn.net/ljp1919/category_9656007.html)
 - [Rasa算法官方教程](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+- [Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN)
+- [rasa_chatbot_cn](https://github.com/GaoQ1/rasa_chatbot_cn)
 - 从源码看，rasa中的transformer只使用了encoder
 
 Rasa NLU Pipeline
