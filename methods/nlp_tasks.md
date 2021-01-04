@@ -65,6 +65,7 @@ Kashgari - 一个工业级NLP迁移学习框架
 
 CRF详解
 - [如何用简单易懂的例子解释条件随机场](https://www.zhihu.com/question/35866596)
+- [CRF损失计算](https://zhuanlan.zhihu.com/p/44042528)
 
 【领域背景】
 
