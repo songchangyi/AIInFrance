@@ -135,6 +135,9 @@ CRF详解
 - [Word2Vec的参数解释](https://blog.csdn.net/laobai1015/article/details/86540813)
 - [Word2Vec的簡易教學與參數調整指南](https://www.kaggle.com/jerrykuo7727/word2vec)
 
+【Fasttext】
+- [官方模型链接](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md#models)
+
 【TextCNN】
 - [TextCNN的优化经验](https://www.cnblogs.com/ModifyRong/p/11442661.html)
 
