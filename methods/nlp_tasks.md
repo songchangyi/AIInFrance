@@ -87,6 +87,9 @@ CRF详解
 
 ## 特征抽取
 
+【】
+- [TF-IDF计算文本相似度](https://zhuanlan.zhihu.com/p/113017752)
+
 【子词嵌入】
 - [BytePair Encoder算法](https://zhuanlan.zhihu.com/p/38130825)
 
