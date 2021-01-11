@@ -154,6 +154,7 @@ CRF详解
 - [Transformer和Bert相关知识解答](https://zhuanlan.zhihu.com/p/149634836)
 - [NLP中 batch normalization与 layer normalization](https://zhuanlan.zhihu.com/p/74516930)
 - [关于batch normalization和layer normalization的理解](https://blog.csdn.net/HUSTHY/article/details/106665809)
+- [超细节的 BERT/Transformer 知识点](https://cloud.tencent.com/developer/article/1748590)
 - Transformer使用Adam优化器
 
 【Bert】
