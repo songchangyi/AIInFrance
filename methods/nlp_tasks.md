@@ -174,3 +174,6 @@ Bert的位置编码可以有PE，正弦余弦编码。还可以使用层次分�
 - [图示详解BERT模型的输入与输出](https://www.cnblogs.com/gczr/p/11785930.html)
 
 - Bert的前馈层使用Gelu激活函数
+
+【Bert变种】
+- [RoBERTa 和 ALBERT](https://www.jianshu.com/p/769e66e085fe)
