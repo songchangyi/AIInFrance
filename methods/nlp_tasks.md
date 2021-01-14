@@ -164,6 +164,7 @@ CRF详解
 - [BERT encoder参数量计算](https://lsc417.com/2020/06/19/bert_parameter/)
 - [CPU上的Bert性能优化](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/)
 - [跨语种语言模型](https://zhuanlan.zhihu.com/p/139630839)
+- [后BERT时代：15个预训练模型对比分析与关键点探究](https://cloud.tencent.com/developer/article/1491568)
 
 Bert的位置编码可以有PE，正弦余弦编码。还可以使用层次分解位置编码来处理超长文本
 - [层次分解位置编码，让BERT可以处理超长文本](https://mp.weixin.qq.com/s/bSOHfuwKZRY7WkqfXVkAPA)
