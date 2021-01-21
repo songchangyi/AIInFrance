@@ -108,7 +108,8 @@ CRF详解
 【UMAP聚类可视化】
 - [Rasa官方分块标注示例](https://github.com/RasaHQ/rasalit/blob/master/notebooks/bulk-labelling/bulk-labelling.ipynb)
 
-【LDA主题模型】
+【聚类模型】
+- [DBSCAN聚类原理](https://www.jianshu.com/p/e8dd62bec026)
 - [利用sklearn训练LDA主题模型及调参详解](https://blog.csdn.net/TiffanyRabbit/article/details/76445909)
 
 【大规模文本聚类】
