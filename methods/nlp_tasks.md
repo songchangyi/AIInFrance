@@ -100,6 +100,9 @@ CRF详解
 ## 情感分析
 - [Word2vec情感分析和分类](https://cloud.tencent.com/developer/article/1061949)
 
+## 文本匹配
+- [实践DSSM召回模型](https://zhuanlan.zhihu.com/p/136253355)
+
 ## 文本分类聚类
 
 【文本关键词提取】
