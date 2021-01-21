@@ -102,6 +102,9 @@ CRF详解
 
 ## 文本分类聚类
 
+【文本关键词提取】
+- [短文本关键词提取](https://zhuanlan.zhihu.com/p/163426574)
+
 【UMAP聚类可视化】
 - [Rasa官方分块标注示例](https://github.com/RasaHQ/rasalit/blob/master/notebooks/bulk-labelling/bulk-labelling.ipynb)
 
