@@ -97,6 +97,9 @@ CRF详解
 - [Universal Sentence Encoder论文分享](https://zhuanlan.zhihu.com/p/35174235)
 - [Universal Sentence Encoder论文详解](https://blog.csdn.net/qq_33624866/article/details/106279666)
 
+【关键词抽取】
+- [SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh)
+
 ## 情感分析
 - [Word2vec情感分析和分类](https://cloud.tencent.com/developer/article/1061949)
 
