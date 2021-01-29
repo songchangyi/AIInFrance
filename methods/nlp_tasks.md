@@ -103,6 +103,12 @@ CRF详解
 ## 情感分析
 - [Word2vec情感分析和分类](https://cloud.tencent.com/developer/article/1061949)
 
+## 主题建模
+- [LDA模型应用：一眼看穿希拉里的邮件](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/5.3%20Topic%20Model/HillaryEmail.ipynb)
+- [gensim LDA模型的优劣评估](https://zhuanlan.zhihu.com/p/33053850)
+- [手把手教你学会 LDA 话题模型可视化 pyLDAvis 库](https://toutiao.io/posts/c7853u/preview)
+- [Gensim LDA](https://radimrehurek.com/gensim/wiki.html#latent-semantic-analysis)
+
 ## 文本匹配
 - [实践DSSM召回模型](https://zhuanlan.zhihu.com/p/136253355)
 
