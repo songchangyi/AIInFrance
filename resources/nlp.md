@@ -87,9 +87,6 @@ CRF详解
 
 ## 特征抽取
 
-【TF-IDF】
-- [TF-IDF计算文本相似度](https://zhuanlan.zhihu.com/p/113017752)
-
 【子词嵌入】
 - [BytePair Encoder算法](https://zhuanlan.zhihu.com/p/38130825)
 
@@ -97,7 +94,13 @@ CRF详解
 - [Universal Sentence Encoder论文分享](https://zhuanlan.zhihu.com/p/35174235)
 - [Universal Sentence Encoder论文详解](https://blog.csdn.net/qq_33624866/article/details/106279666)
 
-【关键词抽取】
+【文本关键词提取】
+- [TF-IDF计算文本相似度](https://zhuanlan.zhihu.com/p/113017752)
+- [用sklearn的TF-IDF模块进行短文本关键词提取](https://zhuanlan.zhihu.com/p/58474443)
+- [关键词抽取示例-sklearn的TfidfVectorizer](https://zhuanlan.zhihu.com/p/67753695)
+- [Quest2keys](https://github.com/ArmandGiraud/quest2keys)
+- [短文本关键词提取](https://zhuanlan.zhihu.com/p/163426574)
+- [关键词智能提取](https://zhuanlan.zhihu.com/p/25889937)
 - [SIFRank_zh](https://github.com/sunyilgdx/SIFRank_zh)
 
 ## 情感分析
@@ -113,9 +116,6 @@ CRF详解
 - [实践DSSM召回模型](https://zhuanlan.zhihu.com/p/136253355)
 
 ## 文本分类聚类
-
-【文本关键词提取】
-- [短文本关键词提取](https://zhuanlan.zhihu.com/p/163426574)
 
 【UMAP聚类可视化】
 - [Rasa官方分块标注示例](https://github.com/RasaHQ/rasalit/blob/master/notebooks/bulk-labelling/bulk-labelling.ipynb)
