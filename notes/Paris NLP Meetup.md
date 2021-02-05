@@ -2,7 +2,7 @@
 
 Official Post : https://nlpparis.wordpress.com/
 
-## 2020-02-05 Paris NLP Season 5 Meetup #3
+## 2021-02-05 Paris NLP Season 5 Meetup #3
 - Patrick von Platen, Hugging Face, Transformer Sequence-to-Sequence Models – Concepts, Trends & Limitations
 - Grégoire Mialon, INRIA, How Natural Language Processing is reshaping Machine Learning
 
