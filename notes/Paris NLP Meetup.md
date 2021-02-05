@@ -2,6 +2,10 @@
 
 Official Post : https://nlpparis.wordpress.com/
 
+## 2020-02-05 Paris NLP Season 5 Meetup #3
+- Patrick von Platen, Hugging Face, Transformer Sequence-to-Sequence Models – Concepts, Trends & Limitations
+- Grégoire Mialon, INRIA, How Natural Language Processing is reshaping Machine Learning
+
 ## 2020-11-25 Paris NLP Season 5 Meetup #2
 - George Balikas, Senior Data Scientist, NLP at Salesforce, Developing Natural Language Search for CRM software
 - Peter Martigny, NLP Research Engineer at Twitter, Building Content Embeddings with Self-Supervised Learning
