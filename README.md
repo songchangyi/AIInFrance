@@ -1,5 +1,8 @@
 # AIInFrance
 
+2021-06
+- [Challenge Data Intermarché](https://github.com/songchangyi/AIInFrance/blob/master/notes/Challenge%20Data%20Intermarch%C3%A9.md)
+
 2021-02
 - [Paris NLP Meetup整理](https://github.com/songchangyi/AIInFrance/blob/master/notes/Paris%20NLP%20Meetup.md)
 
