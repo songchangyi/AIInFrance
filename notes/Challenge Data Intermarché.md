@@ -1,5 +1,9 @@
 # Challenge Data Intermarché
 
+## Winner solution
+- [1st](https://github.com/aromain/intermarche_challenge)
+- [4th](https://github.com/raphaelsty/Intermarche)
+
 ## Model baselines
 - [Keras](https://www.kaggle.com/isaienkov/keras-nn-with-embeddings-for-cat-features-1-15)
 - [Catboost](https://www.kaggle.com/nicapotato/simple-catboost)
