@@ -2,6 +2,7 @@
 
 ## Winner solution
 - [1st](https://github.com/aromain/intermarche_challenge)
+- [3rd](https://gitlab.com/JacquesPeeters/challenge_datafactory_intermarche)
 - [4th](https://github.com/raphaelsty/Intermarche)
 
 ## Model baselines
